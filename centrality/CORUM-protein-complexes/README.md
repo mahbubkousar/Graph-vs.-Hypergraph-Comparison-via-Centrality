@@ -1,10 +1,10 @@
 # Centrality Measures of Protein Complex using Graph and Hypergraph Representations
 
-This project analyzes the structure of protein complexes from the CORUM dataset by calculating betweenness centrality on both graph and hypergraph models.
+In this section we analyze the structure of protein complexes from the CORUM dataset by calculating centrality measures on both graph and hypergraph models.
 
 ## Dataset: CORUM Protein Complexes
 
-- **Link:** [The CORUM Database](http://mips.helmholtz-muenchen.de/corum/)
+- **Link:** [The CORUM Database](https://zenodo.org/records/6084186)
 - **Citation:** Ruepp, A et al. (2010) CORUM: the comprehensive resource of mammalian protein complexes--2009. Nucleic Acids Res. 38:D497-501.
 
 ### Description
