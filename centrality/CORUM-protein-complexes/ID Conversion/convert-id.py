@@ -14,7 +14,9 @@ FILES_TO_CONVERT = [
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Closeness\corum_dataset.ungraph.closeness.txt',
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Closeness\corum_dataset.cmty.closeness.txt',
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.ungraph.harmonic.txt',
-    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.cmty.harmonic.txt'
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.cmty.harmonic.txt',
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Farness\corum_dataset.cmty.farness.txt',
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Farness\corum_dataset.ungraph.farness.txt'
 ]
 
 # --- 2. RE-GENERATE THE GENE MAPPING ---

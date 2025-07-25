@@ -15,7 +15,9 @@ FILES_TO_CONVERT = [
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Closeness\corum_dataset.ungraph.closeness.GSEA.rnk',
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Closeness\corum_dataset.cmty.closeness.GSEA.rnk',
     'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.ungraph.harmonic.GSEA.rnk',
-    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.cmty.harmonic.GSEA.rnk'
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Harmonic\corum_dataset.cmty.harmonic.GSEA.rnk',
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Farness\corum_dataset.cmty.farness.GSEA.rnk',
+    'F:\Projects\graphs-and-hypergraphs\centrality\CORUM-protein-complexes\Output\Farness\corum_dataset.ungraph.farness.GSEA.rnk'
 ]
 
 # --- 2. PROCESS AND SORT EACH FILE ---
