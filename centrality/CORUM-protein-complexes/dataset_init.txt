@@ -1,0 +1,4 @@
+CORUM Protein Complexes Dataset
+data/corum_dataset.graph
+data/corum_dataset.hypergraph
+corum_dataset
