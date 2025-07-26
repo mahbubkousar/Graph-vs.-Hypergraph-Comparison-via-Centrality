@@ -5,6 +5,7 @@ In this section we analyze the structure of protein complexes from the CORUM dat
 ## Dataset: CORUM Protein Complexes
 
 - **Link:** [The CORUM Database](https://zenodo.org/records/6084186)
+- **Complete Dataset:** [CORUM](https://mips.helmholtz-muenchen.de/corum/download)
 - **Citation:** Ruepp, A et al. (2010) CORUM: the comprehensive resource of mammalian protein complexes--2009. Nucleic Acids Res. 38:D497-501.
 
 ### Description
