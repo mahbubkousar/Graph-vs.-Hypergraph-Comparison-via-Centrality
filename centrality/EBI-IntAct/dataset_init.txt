@@ -1,4 +1,4 @@
 EBI-IntAct
-data/EBL_IntAct.graph
-data/EBL_IntAct.hypergraph
+data/EBI_IntAct.graph
+data/EBI_IntAct.hypergraph
 ebi-intact
