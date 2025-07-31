@@ -1,0 +1,5 @@
+Dataset,Metric,Kendall_Tau,Kendall_P_Value,Wilcoxon_Stat,Wilcoxon_P_Value
+Cleaned_Amazon,degree,0.198233,0.000000e+00,11648472688.000000,0.000000e+00
+Cleaned_CYC,degree,0.129641,2.381464e-07,1951.000000,4.192032e-143
+Cleaned_DBLP,degree,0.474683,0.000000e+00,620085826.000000,0.000000e+00
+Cleaned_Youtube,degree,0.396567,0.000000e+00,38350944.000000,0.000000e+00

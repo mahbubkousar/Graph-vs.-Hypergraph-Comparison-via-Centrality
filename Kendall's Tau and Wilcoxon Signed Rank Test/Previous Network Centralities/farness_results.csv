@@ -1,0 +1,5 @@
+Dataset,Metric,Kendall_Tau,Kendall_P_Value,Wilcoxon_Stat,Wilcoxon_P_Value
+Cleaned_Amazon,farness,0.243505,0.000000e+00,1338.000000,0.000000e+00
+Cleaned_CYC,farness,0.303920,7.318180e-38,4217.500000,7.890240e-127
+Cleaned_DBLP,farness,0.354835,0.000000e+00,0.000000,0.000000e+00
+Cleaned_Youtube,farness,0.187794,0.000000e+00,5226206.000000,0.000000e+00

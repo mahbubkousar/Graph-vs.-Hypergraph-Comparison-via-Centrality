@@ -1,0 +1,5 @@
+Dataset,Metric,Kendall_Tau,Kendall_P_Value,Wilcoxon_Stat,Wilcoxon_P_Value
+Cleaned_Amazon,pagerank,0.207456,0.000000e+00,20559479056.000000,0.000000e+00
+Cleaned_CYC,pagerank,-0.003107,8.820969e-01,295844.000000,6.146994e-01
+Cleaned_DBLP,pagerank,0.473862,0.000000e+00,15365813790.000000,0.000000e+00
+Cleaned_Youtube,pagerank,0.307264,0.000000e+00,406378130.000000,0.000000e+00

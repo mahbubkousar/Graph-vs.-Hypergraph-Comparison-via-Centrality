@@ -1,0 +1,5 @@
+Dataset,Metric,Kendall_Tau,Kendall_P_Value,Wilcoxon_Stat,Wilcoxon_P_Value
+Cleaned_Amazon,betweenness,0.097183,0.000000e+00,4690751055.500000,0.000000e+00
+Cleaned_CYC,betweenness,0.230820,6.215389e-19,6051.500000,2.868604e-82
+Cleaned_DBLP,betweenness,0.657571,0.000000e+00,1364093077.500000,0.000000e+00
+Cleaned_Youtube,betweenness,0.359580,0.000000e+00,194642610.000000,0.000000e+00

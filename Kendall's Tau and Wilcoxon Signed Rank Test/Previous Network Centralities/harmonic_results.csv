@@ -1,0 +1,5 @@
+Dataset,Metric,Kendall_Tau,Kendall_P_Value,Wilcoxon_Stat,Wilcoxon_P_Value
+Cleaned_Amazon,harmonic,0.246932,0.000000e+00,49059002.000000,0.000000e+00
+Cleaned_CYC,harmonic,0.579456,6.899185e-170,23033.500000,2.553263e-100
+Cleaned_DBLP,harmonic,0.377779,0.000000e+00,5142168.000000,0.000000e+00
+Cleaned_Youtube,harmonic,0.376397,0.000000e+00,309108837.500000,0.000000e+00
